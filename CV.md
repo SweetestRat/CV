@@ -2,16 +2,17 @@
 <p align="center">Saint-Petersburg, Russia</p>
 
 ---
-#### Education:
+### Education:
 
 **ITMO University**
 - Information systems and technologies
 
-#### Skills:
+---
+### Skills:
 - Bash, C, C++, C#, Python, Swift
 
 ---
-#### Projects:
+### Projects:
 
 **WeLoveNoCode** company:
 - WeLoveNoCode's landing
@@ -23,14 +24,14 @@
 - App for Tinkoff + Sirius
 
 ---
-#### Languages:
+### Languages:
 
 - English B2-C1 (C2 group at University)
 - German A2.1
 - Russian Native
 
 ---
-#### Interests:
+### Interests:
 
 - Academic Rowing
 - Taekwondo

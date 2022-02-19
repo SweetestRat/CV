@@ -49,6 +49,7 @@
 
 - Academic Rowing
 - Taekwondo
+- Drums
 - Music
 - Autosport
 - Languages
